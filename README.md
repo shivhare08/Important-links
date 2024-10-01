@@ -1,6 +1,6 @@
 # Important-link
 
-npx servr (on terminal) and you can access all the files over intranet
+npx serve (on terminal) and you can access all the files over intranet
 
 remixi icon link
 https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css
