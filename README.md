@@ -3,6 +3,12 @@
 Admission Portal
 https://admission-fbbj.onrender.com/
 
+RO projects
+https://frolicking-choux-a29e40.netlify.app/
+
+Acad proj
+https://kaleidoscopic-cranachan-3684fa.netlify.app/
+
 npx serve (on terminal) and you can access all the files over intranet
 
 remixi icon link
