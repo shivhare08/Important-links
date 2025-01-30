@@ -6,6 +6,9 @@ https://admission-fbbj.onrender.com/
 RO projects
 https://frolicking-choux-a29e40.netlify.app/
 
+Blog
+https://blogfullproject.onrender.com/
+
 Acad proj
 https://kaleidoscopic-cranachan-3684fa.netlify.app/
 
